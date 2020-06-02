@@ -1,3 +1,5 @@
+name: aws-k8s-cluster
+
 on:
   push:
     paths:
